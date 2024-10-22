@@ -1,0 +1,16 @@
+Roland : 
+-Tagok
+-Célkítűzés
+-Technológiák
+--Szoftverek:
+Csaba
+-Technológiák
+--Nyelvek
+-Látványtervek
+Szabo lászlo Tamás:
+-Feladatok:
+-Logo
+-Funkciók:
+--1.Funkció
+--2.Funkció
+--3.Funkció
